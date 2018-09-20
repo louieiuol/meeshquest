@@ -1,0 +1,10 @@
+#  Course CMSC420
+#  Project 2: p2
+
+courseName=CMSC420
+semester=201701
+projectNumber=2
+courseKey=5a78c1dd93f6ead8
+authentication.type=ldap
+baseURL=https://submit.cs.umd.edu:443/spring2017
+submitURL=https://submit.cs.umd.edu:443/spring2017/eclipse/SubmitProjectViaEclipse

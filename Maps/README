@@ -1,0 +1,13 @@
+Aliyah Shah
+uid: 113987434
+
+The XML parsing code was provided by the TAs on Piazza
+
+My AVL tree is from GeeksforGeeks
+Height and size methods were copied and modified from Stack Overlfow posts
+
+toString, hashcode, and equals methods are mostly copied from treemap or abstractmap
+
+The get angle method was mostly from the spec
+
+The nearest City for part 4 was taken from part 3 canonical 

@@ -1,0 +1,45 @@
+<commands xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" g="1" localSpatialHeight="8192" localSpatialWidth="8192" pmOrder="3" remoteSpatialHeight="8192" remoteSpatialWidth="8192" xsi:noNamespaceSchemaLocation="part4in.xsd">
+
+<createCity color="black" id="1" localX="1" localY="94" remoteX="0" remoteY="0" name="A1" radius="0"/>
+
+<createCity color="black" id="2" localX="4" localY="476" remoteX="0" remoteY="0" name="A4" radius="0"/>
+
+<createCity color="black" id="3" localX="7" localY="205" remoteX="0" remoteY="0" name="A7" radius="0"/>
+
+<createCity color="black" id="4" localX="10" localY="233" remoteX="0" remoteY="0" name="A10" radius="0"/>
+
+<createCity color="black" id="5" localX="13" localY="1013" remoteX="0" remoteY="0" name="A13" radius="0"/>
+
+<createCity color="black" id="6" localX="16" localY="554" remoteX="0" remoteY="0" name="A16" radius="0"/>
+
+<createCity color="black" id="7" localX="19" localY="534" remoteX="0" remoteY="0" name="A19" radius="0"/>
+
+<createCity color="black" id="8" localX="22" localY="991" remoteX="0" remoteY="0" name="A22" radius="0"/>
+
+<createCity color="black" id="9" localX="25" localY="222" remoteX="0" remoteY="0" name="A25" radius="0"/>
+
+<mapRoad end="A4" id="10" start="A1"/>
+
+<mapRoad end="A7" id="11" start="A4"/>
+
+<mapRoad end="A10" id="12" start="A7"/>
+
+<mapRoad end="A13" id="13" start="A10"/>
+
+<mapRoad end="A16" id="14" start="A13"/>
+
+<mapRoad end="A19" id="15" start="A16"/>
+
+<mapRoad end="A22" id="16" start="A19"/>
+
+<mapRoad end="A25" id="17" start="A22"/>
+
+<nearestCity remoteX="0" remoteY="0" id="18" localX="650" localY="178"/>
+
+<nearestCity remoteX="0" remoteY="0" id="19" localX="1238" localY="405"/>
+
+<nearestCity remoteX="0" remoteY="0" id="20" localX="638" localY="641"/>
+
+<nearestCity remoteX="0" remoteY="0" id="21" localX="434" localY="860"/>
+<printAvlTree id="1" />
+</commands>
